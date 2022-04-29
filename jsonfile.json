@@ -1,2 +1,2 @@
-
+const vehicle = {"Tesla":"white", "Mini bus":"blue", "Taxi":"orange"};
 
